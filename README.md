@@ -8,7 +8,7 @@ git clone git@github.com:Amogh-Umesh/deadlock-algorithms.git
 
 cd deadlock-algorithms
 
-npm i  or yarn
+npm i  or   yarn
 
 npm start or yarn start
 ```
